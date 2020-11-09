@@ -1,0 +1,60 @@
+@font-face {
+ font-family: "YingHei";
+ src: url('MYingHeiPRC-W4.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: "PingFangSC-Regular";
+ src: url('PingFang-SC-Regular.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: "PingFangSC-Light";
+ src: url('PingFang-SC-Light.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: "PingFangSC-Medium";
+ src: url('PingFang-Medium.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: "PingFangSC-Bold";
+ src: url('PingFang-SC-Bold.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: "PingFang";
+ src: url('PingFang-SC-Regular.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: "PingFang-Light";
+ src: url('PingFang-SC-Light.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: "Khand-Regular";
+ src: url('Khand-Regular.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: "Khand-Light";
+ src: url('Khand-Light.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: "Khand-Medium";
+ src: url('Khand-Medium.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
